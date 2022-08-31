@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+    border: 3px solid #4b6cc1;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+}
+
+#navbar-item-1 {
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+#navbar-item-2 {
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+#navbar-item-3 {
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+#navbar-item-4 {
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+#navbar-item-5 {
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+.portfolio-banner-section {
+    background-color: #191a1d;
+    padding: 200px 0px 200px 0px;
+}
+
+.portfolio-banner-section-img {
+    width: 300px;
+    height: 300px;
+}
+
+.portfolio-banner-section-heading {
+    font-size: 64px;
+    color: white;
+
+}
+
+.portfolio-banner-section-description {
+    font-size: 38px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+span {
+    color: #4b6cc1;
+}
+
+.contact-button {
+    color: white;
+    height: 60px;
+    width: 160px;
+    border-radius: 6px;
+    border-width: 0;
+    padding: 12px;
+    background-color: #4b6cc1;
+    font-size: 20px;
+}
+
+
+.portfolio-aboutMe {
+    background-color: #323f4b;
+}
+
+.span-section {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.facts-skills {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.portfolio-aboutMe-heading {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.portfolio-aboutMe-image1 {
+    width: 100%;
+
+}
+
+.portfolio-aboutMe-image2 {
+    width: 100%;
+    height: 400px;
+}
+
+.portfolio-about-me-description {
+    font-size: 20px;
+    color: #9aa5b1;
+}
+
+.portfolio-skills {
+    background-color: #1f2933;
+}
+
+.portfolio-skills-image {
+    height: 110px;
+    width: 110px;
+}
+
+.portfolio-skills-heading {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.portfolio-skills-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.portfolio-projects {
+    background-color: #3e4c59;
+}
+
+.porfolio-name {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.portfolio-projects-heading {
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+
+.portfolio-projects-card {
+    background-color: #323f4b;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.portfolio-projects-card-image {
+    width: 100%;
+}
+
+.portfolio-projects-card-description {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.portfolio-projects-card-heading {
+    color: white;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.portfolio-projects-card-description1 {
+    color: #9aa5b1;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.portfolio-projects-card-link {
+    color: #cced00;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.porfolio-service {
+    background-color: #52606d;
+}
+
+.porfolio-services1 {
+    color: #cced00;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.porfolio-service-heading {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.porfolio-service-card {
+    background-color: #323f4b;
+    border-radius: 15px;
+}
+
+.porfolio-service-card-image {
+    height: 70px;
+    width: 70px;
+}
+
+.porfolio-service-card-heading {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+.porfolio-service-card-description {
+    color: #9aa5b1;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.portfolio-work-done {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    height: 60vh;
+}
+
+.portfolio-work-done-card {
+    color: white;
+}
+
+.portfolio-work-done-card-line {
+    border-color: white;
+    border-width: 1px;
+    width: 100%;
+    text-align: center;
+}
+
+.portfolio-work-done-card-heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.portfolio-work-done-card-description {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.portfolio-footer {
+    background-color: #0d2436;
+}
+
+.portfolio-footer-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+}
+
+.portfolio-footer-heading {
+    color: #cced00;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.portfolio-footer-description {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.portfolio-footer-description-image {
+    color: #5a7184;
+}
+
+.portfolio-footer-endSection {
+    background-color: #001c32;
+}
